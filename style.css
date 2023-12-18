@@ -16,7 +16,7 @@ html, body {
 	
 	opacity: 0.125;
 	position: fixed;
-	background-image: url('_bg.png');
+	background-image: url('bg.png');
 }
 
 .touch{
